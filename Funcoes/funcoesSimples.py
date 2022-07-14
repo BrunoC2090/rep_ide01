@@ -33,3 +33,7 @@ def mult(a, b=3):
 print(mult(4, 5))
 # arg default
 print(mult(2))
+
+
+## Argumentos Args e Kwargs ##
+# Args argumento generico quando nao sei qts parametros serao utilizados
